@@ -1,0 +1,13 @@
+name: Demo Facebook Messenger Bot
+description: Custom demo bot built using fb_messenger_bot module
+package: Custom
+type: module
+# core: 8.x
+dependencies:
+  - fb_messenger_bot
+
+# Information added by Drupal.org packaging script on 2017-05-25
+version: '8.x-1.0'
+core: '8.x'
+project: 'fb_messenger_bot'
+datestamp: 1495740186
